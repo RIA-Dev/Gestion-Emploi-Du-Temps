@@ -18,6 +18,5 @@ For building and running the application you need:
 
 ## Spring Boot
 ```
-Give the example
 ```
 ## Vuejs

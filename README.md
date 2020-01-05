@@ -1,10 +1,3 @@
-<p align="center">
-  <br>
-  <img width="400" src="C:\Users\ilias\OneDrive\Bureau/58175966.png" alt="RIA(Gestion EDTs)">
-  <br>
-  <br>
-</p>
-
 # Gestion-Emploi-Du-Temps
 Web Application Using Backend (Spring Boot) And Frontend (Vuejs)
 

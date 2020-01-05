@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="C:\Users\ilias\OneDrive\Bureau/58175966.png" alt="logo of vue-awesome repository">
+  <img width="400" src="C:\Users\ilias\OneDrive\Bureau/58175966.png" alt="RIA(Gestion EDTs)">
   <br>
   <br>
 </p>

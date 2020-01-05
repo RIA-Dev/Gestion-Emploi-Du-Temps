@@ -2,10 +2,11 @@
 Web Application Using Backend (Spring Boot) And Frontend (Vuejs)
 
 ## Created By :
-  Ilias Attar
-  Reda Adbdlhakim
-  Aimene Nouri
-
+  <ul>
+  <li>Ilias Attar</li>
+  <li>Reda Adbdlhakim</li>
+  <li>Aimene Nouri</li>
+  </ul>
 ## Requirements
 
 For building and running the application you need:
